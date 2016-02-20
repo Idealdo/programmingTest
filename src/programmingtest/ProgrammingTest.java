@@ -35,6 +35,7 @@ public class ProgrammingTest {
     
     /////// 
     // Jesus!
+    // Cristo
     public static void connectToAndQueryDatabase(String username, String password) {
 
         Connection con = null;
